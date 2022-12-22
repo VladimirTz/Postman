@@ -1,13 +1,12 @@
 # Postman
+# HW_1
 
-Postman.
-HW_1
-
-Создать запросы в Postman.
+# Создать запросы в Postman.
 
 Protocol: http
 IP: 162.55.220.72
 Port: 5005
+
 
 EP_1
 Method: GET
