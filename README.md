@@ -1,5 +1,5 @@
 # Postman
-## HW_1 [Postman. HW_1.postman_collection.json] <https://github.com/VladimirTz/Postman/blob/main/Postman_HW_1/Postman.%20HW_1.postman_collection.json>)
+## HW_1 [Postman. HW_1.postman_collection.json](<https://github.com/VladimirTz/Postman/blob/main/Postman_HW_1/Postman.%20HW_1.postman_collection.json>)
 
 ### Создать запросы в Postman.
 
